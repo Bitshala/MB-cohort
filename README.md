@@ -68,10 +68,10 @@ This is the weekly discussiion questions based on Mastering Bitcoin [2nd edition
 - What kind of network information you can fetch from rpc (resource: [Clark Moddy's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)).
 
 
-### Transactions
+#### **Transactions**
 -  Describe the bitcoin transaction structure. What are the fields? What does each field implies?
 
-### Blocks
+#### **Blocks**
 -  Describe the Bitcoin Block Header structure. What are the fields? What does each field implies?
 
 
