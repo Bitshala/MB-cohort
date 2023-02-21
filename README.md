@@ -169,7 +169,7 @@ This is the weekly discussiion questions based on Mastering Bitcoin [2nd edition
 
 - What is a Bitcoin Transaction? How is a Transaction constructed in Bitcoin?
 
-- Different components of transactions
+- What are different components of a Bitcoin Transaction?
 
 - What is a Coinbase Transaction? How are they created and why?
 
