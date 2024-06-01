@@ -38,14 +38,14 @@ This cohort is perfect for:
 
 | Week | Chapters     | Topics | Date |
 |------|--------------|--------|------|
-| 0    | -            | - Introduction<br>- Orientation<br>- Overview of the Program | 28th June 2024 |
+| 0    | -            | - Orientation<br>- Overview of the Program | 28th June 2024 |
 | 1    | 1 & 2        | - Introduction<br>- How Bitcoin Works | 5th July 2024 |
 | 2    | 3 & 4        | - Bitcoin Core<br>- Keys, Addresses | 12th July 2024 |
 | 3    | 5 & 6        | - Wallets<br>- Transactions | 19th July 2024 |
-| 4    | 7 & 8        | - Advanced Transactions and Scripting<br>- The Bitcoin Network | 26th July 2024 |
-| 5    | 9 & 10       | - The Bitcoin Blockchain<br>- Mining and Consensus | 2nd August 2024 |
-| 6    | 11 & 12      | - Bitcoin's Security Model<br>- Bitcoin Commerce | 9th August 2024 |
-| 7    | 13 & 14      | - Operating a Bitcoin Node<br>- Bitcoin Security and Privacy | 16th August 2024 |
+| 4    | 7 & 8        | - Authentication<br>- Digital Signatures | 26th July 2024 |
+| 5    | 9 & 10       | - Transaction Fees<br>- P2P Network | 2nd August 2024 |
+| 6    | 11 & 12      | - The Blockchain<br>- Mining and Consensus | 9th August 2024 |
+| 7    | 13 & 14      | - Bitcoin Security<br>- 2nd Layer Application | 16th August 2024 |
 | 8    | -            | - Next Steps<br>- Summary and Closing Discussion | 23rd August 2024 |
 
 ## Program Style
