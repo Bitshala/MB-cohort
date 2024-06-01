@@ -66,7 +66,7 @@ To join the Mastering Bitcoin Study Cohort, please fill out [this application fo
 
 - [Mastering Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 - [Bitshala Website](https://www.bitshala.org)
-- [Discord](https://discord.gg/jJ6nF6Yd67)
+- [Bitshala Discord](https://discord.gg/jJ6nF6Yd67)
 
 Join us to become part of a vibrant community of Bitcoin learners and enthusiasts. Let's master Bitcoin together!
 
