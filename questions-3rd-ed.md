@@ -70,7 +70,16 @@
 
 ## Chapter 11: The Blockchain
 
+- How is the Bitcoin blockchain analogous to layers in a geological formation?
+- Describe the structure of a block and what data does a block header contain?
+- What are the two identifiers of a Block? Discuss each in brief.
+- What is a Merkle Tree and what significance does it have in Bitcoin?
+- What is a design flaw in the Merkle Tree used in Bitcoin?
+- What is a Light Weight Client in context to Bitcoin? How do Light Weight Clients verify transactions associated to their addresses?
+- Explain mainnet and testnet in brief.
+- Explain signet and regtest in brief.
 
+  
 ## Chapter 12: Mining and Consensus
 
 
