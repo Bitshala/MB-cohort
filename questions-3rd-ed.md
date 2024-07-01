@@ -28,17 +28,73 @@
 ## Chapter 3: Bitcoin Core
 
 - Why is Bitcoin Core called a "reference implementation"? What other implementation of Bitcoin are out there? Is it preferable to have many implementation of Bitcoin?
+
 - What are BIPs? What are their role in the Bitcoin development process?
 
 
 ## Chapter 4: Keys and Addresses
 
+### Elliptic Curves
+
+- Describe the functions of ‘private keys’, ‘public keys’, ‘Bitcoin addresses’, and ‘digital signatures’. What is the mathematical relationship between them and how are they used in Bitcoin?
+
+- What is the discrete logarithm problem, and why is it considered hard to solve?
+
+- What is asymmetry in cryptography, and why are one-way functions useful? Identify a one-way cryptographic function used in deriving public keys from private keys.
+
+- Describe instances where private keys have been compromised due to lack of entropy. Why is it important to use a cryptographically secure pseudorandom number generator to produce a private key? What are some techniques of generating pseudo random numbers?
+
+- What is secp256k1, and what are the curve constants used in Bitcoin? How is ECDSA malleable?
+
++### Address
+
+- What is a Bitcoin address, and why are addresses used instead of raw public keys?
+
+- What hash functions are used in the generation of Bitcoin addresses?
+
+- Why is Base58 used for Bitcoin addresses instead of Base64? Would you make any modifications beyond Base58?
+
+- What are the different private key formats used by wallets?
+
+- What are compressed public keys, and what are the benefits of compressing a public key?
+
+- What are the different kinds of Bitcoin addresses? Explain the differences between P2PKH and P2SH.
+
+- What is the difference between a hot wallet and cold storage?
+
+- What is bech32? How is it better than base58? Are there any problems in bech32? How are they solved?
 
 --------------
 
 # Week 3
 
 ## Chapter 5: Wallet Recovery
+
+- Why does address reuse reduce privacy in Bitcoin? Can you think of other de-anonymizing missteps that might occur due to poor user experience design or lack of privacy education? What institutes perform the most address reuse?
+
+#### Wallet Types
+
+- What is a Bitcoin wallet? What are the different types of wallets available?
+
+- What is the difference between deterministic and non-deterministic wallets?
+
+- Why does the author argue that BIP32 wallets are superior?
+
+#### Seed and Mnemonic
+
+- What is a "seed" in the context of Bitcoin wallets? How are mnemonic words generated from the seed?
+
+- What is the optional passphrase for a mnemonic code? Discuss its potential advantages and disadvantages.
+
+#### Extended Keys
+
+- What are XPubs, XPrivs, and Chaincode?
+
+- What are the components of an extended key? What is the fingerprint of a key?
+
+- What are hardened and non-hardened derivations? Why is there a distinction, and what are the advantages of different kinds of derivations?
+
+- Why is a brainwallet not secure, while mnemonic code words are?
 
 
 ## Chapter 6: Transactions
