@@ -119,7 +119,14 @@
 
 ## Chapter 10: The Bitcoin Network
 
-
+- What is a peer-to-peer network? Give two examples of successful peer-to-peer networks that preceded Bitcoin.
+- What is a block finding race? How does compact block relay prevent it?
+- How does a new node discover other Bitcoin nodes on the network in order to participate?
+- How do light weight clients validate that a transaction exists? How is this different from the mechanism full archival nodes use to validate a transaction?
+- What are bloom filters? How do they work?
+- What are compact block filters? What data should be included in a block filter?
+- What are the privacy trade-offs in using a light weight client?
+- Explain in brief what is a Mempool and what is an Orphan Pool.
 --------------
 
 # Week 6
