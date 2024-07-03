@@ -145,6 +145,14 @@
   
 ## Chapter 12: Mining and Consensus
 
+- What are the goals of Bitcoin mining and what are it’s incentives?
+- Explain in brief how does the Bitcoin network attain emergent decentralised consensus.
+- What is a coin-base transaction? What prevents the miners from inflating the coin-base reward?
+- What is Mining Difficulty? How is it adjusted?
+- Explain the 51% attack. Can it compromise the security of private keys and signing algorithms?
+- What factors could cause a change in Bitcoin’s consensus rules? How is a change in consensus rules achieved in a decentralised network like Bitcoin?
+- Explain a Hard fork. Is a new software implementation of the consensus rules a pre-requisite for it?
+- Explain a soft fork. What are some common criticisms of a soft fork?
 
 --------------
 
