@@ -99,6 +99,31 @@
 
 ## Chapter 6: Transactions
 
+### Transaction Structure
+
+- What are the different components of a Bitcoin transaction?
+
+- What parts of the transaction structure got affected with the segwit upgrade? Were there any new fields added to the transaction structure?
+
+- What is a coinbase transaction, how are they created, and why are they important?
+
+- Compare a coinbase transaction to a normal bitcoin transaction and highlight the differences between the two.
+
+- What are UTXOs (Unspent Transaction Outputs), and how is the balance of a wallet calculated?
+
+- Explain transaction weight and virtual bytes? How are they calculated?
+
+- What is witness marker and witness flag? How is it necessary?
+
+- What is nSequence? What was it intented use when Satoshi created Bitcoin? How is it used today?
+
+- What are various sources of transaction malleability? How does segwit fix transaction malleability?
+
+- Can two transactions have the same transaction id? What happens to the UTXOs in those two transactions in that case?
+
+- How is legacy serialization different from serialization after segwit upgrade? Highlight key differences.
+
+- What are transaction inputs, and how are they constructed? What are unlocking scripts?
 
 --------------
 
@@ -106,8 +131,26 @@
 
 ## Chapter 7: Authorization and Authentication
 
+### Transaction Validation
 
-## Chapter 8: Digital SIgnature
+- Is the Turing incompleteness of Bitcoin's scripting language (SCRIPT) a feature or a deficiency?
+
+- What is the difference between a locking script (scriptPubKey) and an unlocking script (scriptSig)? What is the difference between a redeem script and a witness script?
+
+- Why are the locking and unlocking scripts executed separately?
+
+
+## Chapter 8: Digital Signature
+
+### Digital Signatures
+
+- What are sighashes, and what are their uses? How many types of sighashes are there?
+
+- What are digital signatures, where are they placed in a transaction, and what is their purpose?
+
+- Describe some real-life exploits that occurred due to poor randomness in digital signatures.
+
+- Besides signing transactions, what other uses could digital signatures have?
 
 
 --------------
