@@ -131,13 +131,23 @@
 
 ## Chapter 7: Authorization and Authentication
 
-### Transaction Validation
-
 - Is the Turing incompleteness of Bitcoin's scripting language (SCRIPT) a feature or a deficiency?
 
 - What is the difference between a locking script (scriptPubKey) and an unlocking script (scriptSig)? What is the difference between a redeem script and a witness script?
 
 - Why are the locking and unlocking scripts executed separately?
+
+- Explain different types of timelocks which you can have and list the components of the transactions that can be used to set timelocks.
+
+- What are the different ways to create contracts in the script? Briefly highlight pros and cons of each.
+
+- Why is the public key directly included in a P2TR output whereas in other script types we always include a hash?
+
+- Why is the Merkle path length limited to 128?
+
+- How does Taproot upgrade increase security and privacy in Bitcoin?
+
+- Highlight the differences between Tapscript and native Bitcoin script?
 
 
 ## Chapter 8: Digital Signature
