@@ -162,8 +162,6 @@ fil
 
 ## Chapter 8: Digital Signature
 
-### Digital Signatures
-
 - What are sighashes, and what are their uses? How many types of sighashes are there?
 
 - What are digital signatures, where are they placed in a transaction, and what is their purpose?
@@ -172,6 +170,19 @@ fil
 
 - Besides signing transactions, what other uses could digital signatures have?
 
+- How does batch verification works in Schnorr signatures?
+
+- What are the difference in serialisation of Schnorr signatures and ECDSA signatures?
+
+- What is the quadratic sighash problem? How does segwit's new signing algorithm addresses it?
+
+- What is the Discrete Log Problem, and why is it important in Cryptography? What does it mean when we say "DLP is hard"? What would have happened if DLP wasn't a "hard" problem?
+
+- Why is it important to use a random number (k) as the basis for a private/public nonce pair? What vulnerabilities can be exploited if k is known to be reused? Can you provide a real-life example of when such an exploit occurred?
+
+- How are ECDSA signature malleable? Does this malleability also occur in Schnorr signatures? Is there a way to fix this malleability?
+
+- Explain the key difference between scriptless multisignature and scriptless threshhold signatures. Are they both possible in Bitcoin? If yes, then briefly discuss the different protocols for the same.
 
 --------------
 
