@@ -8,6 +8,8 @@
 - What are the different types of Bitcoin Nodes? What are the tradeoffs between them? When is it applicable to use a "light node"?
 - Do you think it would be better if bitcoin transactions were reversible? What are the potential benefits and drawbacks?
 - Do you believe Bitcoin needs to compete with Visa/MasterCard to succeed? Why or why not?
+- What is the Bitcoin Issuance Rate? How do we know the supply cap of Bitcoin is 21 million?
+- Is Bitcoin private? Does Bitcoin need to be private? Why isn't Bitcoin fungible?
 
 
 ## Chapter 2: How Bitcoin Works
@@ -17,7 +19,10 @@
 - What are change addresses? When are change addresses required? What happens if the user (or wallet sofwtware) forgets to include the change address in a transaction? When will we not require a change address?
 - What does coinselection mean? Can you name few popular coinselection algorithms? Is it better to manually select coins or let the wallet software automatically handle it?
 - How is Proof of Work mining similar to "needle in haystack" problem? What happens when two blocks are mined by different miners at the same height, how does the network decide which is the "right" block?
-- What does it mean by a transaction to be "confirmed"? How many confirmations is usually acceptable? Is it okay to accept unconfirmed transactions? Why or why not?
+- What does it mean by a transaction to be "confirmed"? How many confirmation is usually acceptable? Is it okay to accept unconfirmed transactions? Why or why not?
+- What is the lowest denomination of Bitcoin? Can we run out of decimals to denominate the smallest unit, as Bitcoin adoption increases?
+- Why did Satoshi said transactions are "chain of digital signatures"? What is a UTXO? Whats the difference between UTXO and Account based model? Why did Bitcoin choose to stick with UTXO model?
+
 
 
 --------------
@@ -27,9 +32,14 @@
 
 ## Chapter 3: Bitcoin Core
 
-- Why is Bitcoin Core called a "reference implementation"? What other implementation of Bitcoin are out there? Is it preferable to have many implementation of Bitcoin?
-
-- What are BIPs? What are their role in the Bitcoin development process?
+- Why is Bitcoin Core called a "Reference Implementation"? What other implementations of Bitcoin are out there? Is it preferable to have many implementations of Bitcoin?
+- What are BIPs (Bitcoin Improvement Proposals)? What are their role in the Bitcoin development process?
+- What are the few major configuration options in Bitcoin Core? As a home node operator, which one do you think is most useful?
+- What is `txindex`? When would a node operator use this configuration flag? What are the overheads of turning this configuration on?
+- What is `bitcoin-cli`? What is it used for? Have you explored any `bitcoin-cli` commands? Which commands do you find most useful as a home node operator?
+- What is the approximate disk space requirement for running Bitcoin Core? What are the approximate network bandwidth and memory requirements? Do you think it's "cheap" to run a node?
+- What are commands you would use sequentially to get the fully deserialized coinbase transaction of the Block 100, using `bitcoin-cli`?
+- How can you verify the signatures of download binaries of Bitcoin Core? What are the potential damages of running a malicious version of the software?
 
 
 ## Chapter 4: Keys and Addresses
@@ -126,7 +136,7 @@
 - What are transaction inputs, and how are they constructed? What are unlocking scripts?
 
 --------------
-
+fil
 # Week 4
 
 ## Chapter 7: Authorization and Authentication
@@ -195,7 +205,7 @@
 - Explain mainnet and testnet in brief.
 - Explain signet and regtest in brief.
 
-  
+
 ## Chapter 12: Mining and Consensus
 
 - What are the goals of Bitcoin mining and what are it’s incentives?
