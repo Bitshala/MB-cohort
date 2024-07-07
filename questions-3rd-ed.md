@@ -190,6 +190,17 @@ fil
 
 ## Chapter 9: Transaction Fess
 
+- Why do we need to pay transaction fees when we have block reward as an incentive? Is there a minimum fee that every transaction needs to pay? Is it a consensus rule or policy rule?
+
+- What are the different fee estimation algorithms? Briefly discuss the internal workings of each.
+
+- What are the RBF rules for fee-bumping a transaction? Which rules are important to protect against DoS attacks?
+
+- What is transaction pinning? How is it a vulnerability for multiparty time-sensitive protocols such as LN?
+
+- What is fee sniping and how does it work? How can it be prevented?
+
+- Explain CPFP carve out and anchor outputs.
 
 ## Chapter 10: The Bitcoin Network
 
