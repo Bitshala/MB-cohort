@@ -221,22 +221,22 @@ fil
 - How is the Bitcoin blockchain analogous to layers in a geological formation?
 - Describe the structure of a block and what data does a block header contain?
 - What are the two identifiers of a Block? Discuss each in brief.
-- What is a Merkle Tree and what significance does it have in Bitcoin?
+- What is a Merkle Tree and what significance does it have in the Blockchain?
 - What is a design flaw in the Merkle Tree used in Bitcoin?
-- What is a Light Weight Client in context to Bitcoin? How do Light Weight Clients verify transactions associated to their addresses?
-- Explain mainnet and testnet in brief.
-- Explain signet and regtest in brief.
+- What is a Light Client in context to Bitcoin? How do Light Clients verify transactions associated to their addresses?
+- Explain mainnet and testnet in brief. Can testned coins have value?
+- Explain signet and regtest in brief. When would you use regtest for testing, and when Signet?
 
 
 ## Chapter 12: Mining and Consensus
 
-- What are the goals of Bitcoin mining and what are it’s incentives?
+- What are the goals of Bitcoin mining and what are the incentives for the miners?
 - Explain in brief how does the Bitcoin network attain emergent decentralised consensus.
 - What is a coin-base transaction? What prevents the miners from inflating the coin-base reward?
-- What is Mining Difficulty? How is it adjusted?
+- What is Mining Difficulty? Why and how is it adjusted?
 - Explain the 51% attack. Can it compromise the security of private keys and signing algorithms?
 - What factors could cause a change in Bitcoin’s consensus rules? How is a change in consensus rules achieved in a decentralised network like Bitcoin?
-- Explain a Hard fork. Is a new software implementation of the consensus rules a pre-requisite for it?
+- Define a Hard fork and explain whether a new software implementation of the consensus rules is a pre-requisite for it.
 - Explain a soft fork. What are some common criticisms of a soft fork?
 
 --------------
@@ -245,6 +245,14 @@ fil
 
 ## Chapter 13: Bitcoin Security
 
+- Why does the author say securing bitcoins is like securing cash or a chunk of precious metal? 
+- What could be the consequences of applying centralised security models to a decentralised network like Bitcoin?
+- Explain the concept of root of trust in security models. What should be the root of trust for Bitcoin            applications?
+- How is physical storage of Bitcoin keys one of the most effective methods of securing bitcoins?
+- How do hardware signing devices secure bitcoins?
+- What could be the consequences of using unnecessarily complex techniques to secure bitcoins?
+- What is the importance of using diverse storing mechanisms for bitcoin?
+- What is a multi-sig address? In what situation is it advisable to share confidential information about your      bitcoin keys with a trusted person?
 
 ## Chapter 14: Second-Layer Applications
 
