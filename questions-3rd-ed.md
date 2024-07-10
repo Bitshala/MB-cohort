@@ -259,3 +259,11 @@ fil
 
 --------------
 
+- Mention and explain three primitives that Bitcoin guarantees for applications built on top of it.
+- Explain at least two use-cases of applications build on top of Bitcoin.
+- What are payment channels in context to Bitcoin? How do they facilitate extremely high transaction throughput?
+- Explain what are funding and commitment transactions in context of payment channels.
+- What is a uni-directional payment channel? Give an example.
+- What is a bi-directional payment channel? Give an example.
+- Can a Bitcoin transaction be cancelled? Explain asymmetric revocable transactions.
+- What is a HTLC? Which OP-code is used to achieve it in context to payment channels?
