@@ -56,7 +56,7 @@
 
 - What is secp256k1, and what are the curve constants used in Bitcoin? How is ECDSA malleable?
 
-+### Address
+### Address
 
 - What is a Bitcoin address, and why are addresses used instead of raw public keys?
 
@@ -135,8 +135,6 @@
 
 - What are transaction inputs, and how are they constructed? What are unlocking scripts?
 
---------------
-fil
 # Week 4
 
 ## Chapter 7: Authorization and Authentication
