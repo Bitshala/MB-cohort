@@ -20,6 +20,26 @@ include?
 the smallest unit, as Bitcoin adoption increases?
 
 --------------
+# Week 2
+## GD Questions
+
+- Why is Bitcoin Core called a "Reference Implementation"? What other implementations of Bitcoin are out there? Is it preferable to have many implementations of Bitcoin?
+- What are BIPs (Bitcoin Improvement Proposals)? What are their role in the Bitcoin development process?
+- What is bitcoin-cli? What is it used for? Have you explored any bitcoin-cli commands? Which commands do you find most useful as a home node operator?
+- Describe the functions of ‘private keys’, ‘public keys’, ‘Bitcoin addresses’, and ‘digital signatures’. What is the mathematical relationship between them and how are they used in Bitcoin?
+- What is the discrete logarithm problem, and why is it considered hard to solve?
+- What is asymmetry in cryptography, and why are one-way functions useful? Identify a one-way cryptographic function used in deriving public keys from private keys.
+- Describe instances where private keys have been compromised due to lack of entropy. Why is it important to use a cryptographically secure pseudorandom number generator to produce a private key? What are some techniques of generating pseudo random numbers?
+- What are the different kinds of Bitcoin addresses? Explain the differences between P2PKH and P2SH.
+- What is the difference between a hot wallet and cold storage?
+- What is bech32? How is it better than base58? Are there any problems in bech32? How are they solved?
+
+## Bonus Questions
+- What is the approximate disk space requirement for running Bitcoin Core? What are the approximate network bandwidth and memory requirements? Do you think it's "cheap" to run a node?
+- How can you verify the signatures of download binaries of Bitcoin Core? What are the potential damages of running a malicious version of the software?
+- What hash functions are used in the generation of Bitcoin addresses?
+
+--------------
 
 # Week 3
 ## GD Questions
