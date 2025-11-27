@@ -12,11 +12,11 @@ potential benefits and drawbacks?
 - Why did Satoshi said transactions are "chain of digital signatures"? What is a UTXO? Whats the difference between UTXO and Account based model? Why did Bitcoin choose to stick with UTXO model?
 
 ## Bonus Questions
-● Do you believe Bitcoin needs to compete with Visa/MasterCard to succeed? Why or why
+- Do you believe Bitcoin needs to compete with Visa/MasterCard to succeed? Why or why
 not?
-● What are the two main components of a Transaction? What does each component
+- What are the two main components of a Transaction? What does each component
 include?
-● What is the lowest denomination of Bitcoin? Can we run out of decimals to denominate
+- What is the lowest denomination of Bitcoin? Can we run out of decimals to denominate
 the smallest unit, as Bitcoin adoption increases?
 
 --------------
