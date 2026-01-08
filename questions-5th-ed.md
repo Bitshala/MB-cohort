@@ -1,22 +1,22 @@
 # Week 1
 ## GD Questions
-- What were the major problems of Digital Currencies before Bitcoin? How did Bitcoin
+1. What were the major problems of Digital Currencies before Bitcoin? How did Bitcoin
 solve them?
-- Do you think it would be better if bitcoin transactions were reversible? What are the
+2. Do you think it would be better if bitcoin transactions were reversible? What are the
 potential benefits and drawbacks?
-- What is the Bitcoin Issuance Rate? How do we know the supply cap of Bitcoin is 21 million?
-- Is Bitcoin private? Does Bitcoin need to be private? Why isn't Bitcoin fungible?
-- What is a transaction fee? How is it calculated? What's the effect of transaction fee on transaction confirmation?
-- What are change addresses? When are change addresses required? What happens if the user (or wallet software) forgets to include the change address in a transaction? When will we not require a change address?
-- What does it mean by a transaction to be "confirmed"? How many confirmation is usually acceptable? Is it okay to accept unconfirmed transactions? Why or why not?
-- Why did Satoshi said transactions are "chain of digital signatures"? What is a UTXO? Whats the difference between UTXO and Account based model? Why did Bitcoin choose to stick with UTXO model?
+3. What is the Bitcoin Issuance Rate? How do we know the supply cap of Bitcoin is 21 million?
+4. Is Bitcoin private? Does Bitcoin need to be private? Why isn't Bitcoin fungible?
+5. What is a transaction fee? How is it calculated? What's the effect of transaction fee on transaction confirmation?
+6. What are change addresses? When are change addresses required? What happens if the user (or wallet software) forgets to include the change address in a transaction? When will we not require a change address?
+7. What does it mean by a transaction to be "confirmed"? How many confirmation is usually acceptable? Is it okay to accept unconfirmed transactions? Why or why not?
+8. Why did Satoshi said transactions are "chain of digital signatures"? What is a UTXO? Whats the difference between UTXO and Account based model? Why did Bitcoin choose to stick with UTXO model?
 
 ## Bonus Questions
-- Do you believe Bitcoin needs to compete with Visa/MasterCard to succeed? Why or why
+1. Do you believe Bitcoin needs to compete with Visa/MasterCard to succeed? Why or why
 not?
-- What are the two main components of a Transaction? What does each component
+2. What are the two main components of a Transaction? What does each component
 include?
-- What is the lowest denomination of Bitcoin? Can we run out of decimals to denominate
+3. What is the lowest denomination of Bitcoin? Can we run out of decimals to denominate
 the smallest unit, as Bitcoin adoption increases?
 
 --------------
