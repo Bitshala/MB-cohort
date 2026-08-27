@@ -31,7 +31,7 @@ the smallest unit, as Bitcoin adoption increases?
 6. What is asymmetry in cryptography, and why are one-way functions useful? Identify a one-way cryptographic function used in deriving public keys from private keys.
 7. Describe instances where private keys have been compromised due to lack of entropy. Why is it important to use a cryptographically secure pseudorandom number generator to produce a private key? What are some techniques of generating pseudo random numbers?
 8. What are the different kinds of Bitcoin addresses? Explain the differences between P2PKH and P2SH.
-9. What is the difference between a hot wallet and cold storage?
+9. What is the difference between a hot wallet and cold wallet?
 10. What is bech32? How is it better than base58? Are there any problems in bech32? How are they solved?
 
 ## Bonus Questions
